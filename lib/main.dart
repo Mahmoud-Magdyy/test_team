@@ -5,7 +5,7 @@ void main() {
 }
 //splash from mahmoud 
 
-//steps 
+//stepss 
 //1. checkout master 
 //2. update master
 //3. create branch 
